@@ -14,3 +14,10 @@ Feel free to say "hi" to the bot.
 ```
 
 This bot is deployed on Heroku platform.
+
+# Run 
+
+```python
+pip install -r requirements.txt
+python botcommands.py
+```
